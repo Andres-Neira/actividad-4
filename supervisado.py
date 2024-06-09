@@ -3,7 +3,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+# inicia código
 # 1. Cargar el Dataset
 df = pd.read_csv('C:/INGENIERIA CIENCIA DE DATOS/ACTIVIDAD 4/Dataset  transporte_masivo.csv')
 
