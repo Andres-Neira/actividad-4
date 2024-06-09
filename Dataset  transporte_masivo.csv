@@ -1,0 +1,6 @@
+﻿id_viaje,tipo_transporte,hora_salida,hora_llegada,origen_lat,origen_lon,destino_lat,destino_lon,num_pasajeros,dia_semana,condiciones_climaticas,eventos_especiales
+1,Autobús,8:00,8:30,407.128,-740.060,407.580,-739.855,20,Lunes,Soleado,Ninguno
+2,Tren,9:15,9:45,407.128,-740.060,407.306,-739.352,100,Martes,Lluvioso,Ninguno
+3,Metro,17:00,17:20,407.306,-739.352,407.580,-739.855,50,Miércoles,Soleado,Concierto
+4,Autobús,18:00,18:30,407.306,-739.352,407.128,-740.060,25,Jueves,Nublado,Ninguno
+5,Tren,7:30,8:00,407.580,-739.855,407.128,-740.060,120,Viernes,Soleado,Partido de fútbol
